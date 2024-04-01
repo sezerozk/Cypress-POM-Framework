@@ -1,0 +1,16 @@
+{
+  "name": "cypress-pom-framework",
+  "version": "1.0.0",
+  "description": "Cypress page object model ve data driven framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sezer Ozkan",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.7.1",
+    "faker": "^6.6.6"
+  }
+}
